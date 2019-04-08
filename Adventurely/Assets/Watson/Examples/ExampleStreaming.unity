@@ -680,7 +680,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _serviceUrl: https://gateway-syd.watsonplatform.net/speech-to-text/api
   ResultsField: {fileID: 1863902092}
-  _iamApikey: La7zgJDyXRvvmbFOEfqLfw7gfewXXksXy89eQ7-aPbQX
+  _iamApikey: 
   check: {fileID: 2041049865}
   _recognizeModel: 
 --- !u!4 &1646685151
